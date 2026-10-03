@@ -1,0 +1,7 @@
+build/
+dist/
+tests/dsp_tests_bin
+tests/dsp_tests.exe
+.vs/
+CMakeUserPresets.json
+*.user
